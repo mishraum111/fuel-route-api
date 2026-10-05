@@ -53,4 +53,3 @@ Import `postman_collection.json`. For the main request use:
 }
 ```
 
-Suggested 4–5 minute Loom flow is in `docs/LOOM_SCRIPT.md`.
