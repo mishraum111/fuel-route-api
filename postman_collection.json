@@ -1,0 +1,7 @@
+{
+  "info": {"name": "Fuel Route API", "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"},
+  "item": [
+    {"name":"Health","request":{"method":"GET","url":{"raw":"http://127.0.0.1:8000/health/","protocol":"http","host":["127","0","0","1"],"port":"8000","path":["health",""]}}},
+    {"name":"Route + Fuel Stops","request":{"method":"GET","url":{"raw":"http://127.0.0.1:8000/api/v1/route-fuel/?start=New%20York%2C%20NY&finish=Chicago%2C%20IL","protocol":"http","host":["127","0","0","1"],"port":"8000","path":["api","v1","route-fuel",""] ,"query":[{"key":"start","value":"New York, NY"},{"key":"finish","value":"Chicago, IL"}]}}}
+  ]
+}
